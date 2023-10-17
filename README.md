@@ -1,2 +1,3 @@
 # Data-Professionals-Survey
-I created a Data Professionals Survey Breakdown using Power Query and Power BI desktop.
+Collected data by applying various formatting from Excel and a SQL database. 
+Transformed and cleaned the data using power query and by applying DAX expression.
